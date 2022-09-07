@@ -1,0 +1,27 @@
+h1{
+    color: rgb(21, 0, 255);
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+.header{
+    height: 150px;
+    background-color: rgb(167, 203, 77);
+}
+.content{
+    height: 150px;
+    background-color: rgb(182, 191, 161);
+}
+.footer{
+    height: 50px;
+    background-color: bisque;
+}
+a{
+    color: rgb(22, 172, 42);
+    text-align: center;
+}
+p{
+    color: rgb(37, 171, 57);
+    text-align: center;
+}
